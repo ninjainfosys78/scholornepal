@@ -4,13 +4,6 @@
     "description": "Our team comprises highly qualified and experienced professionals from diverse fields dedicated to excellence.",
     "members": [
         {
-            "name": "Mr. Narendra Bikram KC",
-            "role": "Managing Director, Scholar Nepal Pvt Ltd",
-            "qualification": "Master's Degree in Geography (1998)",
-            "bio": "Mr. KC is the Managing Director of Scholar Nepal Pvt Ltd, with more than 20 years of experience in governance and planning. He has been involved in preparing LG profiles, Geo-Spatial Periodic Plans, O&M, Project Bank Guideline and implementation plan, Tourism Master Plan, Transport Master Plan, Disaster Management Plan, LDCRP, LDCRF, GEDSI, GRB, Social Accountability, RIAP, Own Source Revenue (OSR) digitalization, Climate Resilience, Value Chain, Local Economic Development, GIS Mapping, and guidelines. He has worked with various donor partners, INGOs and NGOs as coordinator, training expert and consultant on baseline studies, impact assessments, feasibility studies, performance evaluations and comparative studies.",
-            "image": "https://ui-avatars.com/api/?name=Narendra+KC&background=0D8ABC&color=fff"
-        },
-        {
             "name": "Dr. Jagadish Chandra Pokhrel",
             "role": "Policy / Planning / Legal Reform",
             "qualification": "Senior Expert in Urban and Regional Planning",
@@ -114,41 +107,6 @@
             "qualification": "Expert in Digital Mapping & Lidar",
             "bio": "Mr. Pujara has 20 years of GIS expertise in Digital Mapping and database management. He is a GIS trainer with in-depth knowledge of ArcGIS and satellite image processing.",
             "image": "https://ui-avatars.com/api/?name=Dambar+Pujara&background=EF4444&color=fff"
-        },
-        {
-            "name": "Mr. Yadav Ojha",
-            "role": "Disaster Risk Reduction & Humanitarian Response Expert",
-            "qualification": "Development and Emergency Response Professional",
-            "bio": "Mr. Ojha is a results-driven development and emergency response professional with over 15 years of progressive experience in Nepal, including leading post-earthquake relief and recovery, disaster risk reduction and management (DRRM), and multi-district humanitarian programmes. He has coordinated post-disaster needs assessments and relief distribution, established Local Emergency Operation Centers (LEOCs) and municipal disaster plans, and supported IDP relief operations. He has managed large donor-funded portfolios (GIZ/BMZ, EU, UNDP, USAID) worth up to several million euros, with strong budgeting, procurement, risk management and donor reporting skills. He has experience across Technical Education and Vocational Training (TEVT), food security, sustainable livelihoods and agriculture value chains, working with government, municipalities, the private sector and communities.",
-            "image": "https://ui-avatars.com/api/?name=Yadav+Ojha&background=F59E0B&color=fff"
-        },
-        {
-            "name": "Ms. Ratna Shrestha",
-            "role": "Gender Equality & Social Inclusion Expert",
-            "qualification": "MA Sociology & Anthropology (CEU, Hungary); PhD Candidate in Gender Studies, TU",
-            "bio": "Ms. Shrestha has over 17 years of dedicated experience promoting gender equality and empowering women and girls in Nepal. Her expertise lies in gender mainstreaming across development work, amplifying the voices of marginalized communities through an intersectional lens in peacebuilding, climate-smart agriculture, disaster management, WASH, the private sector, sexual and reproductive health services, and the protection of GBV survivors' rights. She has applied gender-transformative approaches in developing training manuals to address harmful norms that perpetuate GBV, and works to build a gender-equitable society through inclusive policies and programmes across all development sectors.",
-            "image": "https://ui-avatars.com/api/?name=Ratna+Shrestha&background=8B5CF6&color=fff"
-        },
-        {
-            "name": "Ms. Lalita Bista",
-            "role": "Finance and Logistics Associate",
-            "qualification": "Bachelor's in Business Studies, Tribhuvan University",
-            "bio": "Ms. Bista, a permanent resident of Sudurpaschim Province, is an administration, finance and programme support professional with over eight years of experience in financial management, budgeting, procurement, compliance, logistics and project coordination. Since 2018 she has worked as Admin and Finance Associate at Scholar Nepal Pvt. Ltd., supporting development and capacity-building initiatives funded by GIZ, UNDP, ADB, Caritas Nepal and other partners. Her expertise includes financial reporting, accounting, taxation, payroll, procurement, audit coordination, asset management and logistics.",
-            "image": "https://ui-avatars.com/api/?name=Lalita+Bista&background=EF4444&color=fff"
-        },
-        {
-            "name": "Mr. Narayan Kumar BC",
-            "role": "Governance Reforms, PFM and Municipal Finance",
-            "qualification": "MBA, PhD Candidate in Fiscal Federalism",
-            "bio": "Experienced project coordinator with over 25 years of expertise in governance reforms, public financial management, and municipal finance. He recently completed an OSR-related assignment as a Revenue Policy Expert with UNDP/GTN, was a team member in the design of PLGSP Phase II (2024–2029), and contributed to drafting the PLGSP Implementation Guidelines 2025. He has extensive experience preparing RIAPs, MTEFs, and Periodic Plans for local governments, and drafting policies and guidelines for federal, provincial, and local governments. He has coordinated projects with development partners (ADB, World Bank, UNCDF, UNDP, IFAD, DANIDA, JICA, IMF, etc.) and the Government of Nepal, and serves as a Senior Trainer in Planning and Management, PFM, M&E, and Procurement for all tiers of government.",
-            "image": "https://ui-avatars.com/api/?name=Narayan+BC&background=0D8ABC&color=fff"
-        },
-        {
-            "name": "Mr. Rajib Gautam",
-            "role": "Legal and Policy Reform Specialist",
-            "qualification": "Former Secretary, Ministry of Law, Justice and Parliamentary Affairs",
-            "bio": "Mr. Gautam is a former Secretary of the Ministry of Law, Justice and Parliamentary Affairs (GoN) and holds a Master's Degree in Law with over 30 years of experience in the legal and policy reform sector. He also served as Secretary responsible for the law and justice portfolio at the OPMCM. He has contributed to drafting numerous laws, including the Constitution of Nepal (2072). He is currently engaged in drafting various policies and laws and serves as a resource person at the Staff College, where he teaches government and corporate officials.",
-            "image": "https://ui-avatars.com/api/?name=Rajib+Gautam&background=10B981&color=fff"
         }
     ]
 }
